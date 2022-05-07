@@ -1,2 +1,0 @@
-# foods
-help for Aziza
